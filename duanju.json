@@ -1,0 +1,14 @@
+{
+
+"spider":"./DJJH.jar",
+
+"sites":[  
+{
+      "key": "djjh",
+      "name": "短剧APP合集",
+      "type": 3,
+      "api": "csp_DuanJu",
+      "searchable": 1,
+      "changeable": 0
+     
+    }]}
